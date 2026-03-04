@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Open Hand Canvas Logo" width="220" />
+  <img width="1024" height="1024" alt="ChatGPT Image Mar 4, 2026, 04_09_38 PM" src="https://github.com/user-attachments/assets/c9797b85-8036-4f7b-9d83-274686492204" />
 </p>
 
 <h1 align="center">Open Hand Canvas</h1>
